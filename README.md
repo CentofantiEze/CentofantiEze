@@ -27,3 +27,5 @@ I'm a PhD candidate in ML and AI methods for astronomical imaging at the [CosmoS
 - Centofanti et al. *"argosim: a Python package for radio interferometric simulations"*. Submitted in A&A, Aug 2025. DOI: [10.48550/arXiv.2606.25573](https://doi.org/10.48550/arXiv.2606.25573)
 - Centofanti et al. *"Breaking the degeneracy in stellar spectral classification from single wide-band images"*. Published in A&A, Feb 2025. DOI: [10.1051/0004-6361/202452224](https://doi.org/10.1051/0004-6361/202452224)
 - C. Valle, E. Centofanti, et al. *"Stability of Unfolded Forward-Backward to Perturbations in Observed Data"*. Published in European Signal Processing Conference (EUSIPCO), Sep 2023. DOI: [10.23919/EUSIPCO58844.2023.10290061](https://doi.org/10.23919/EUSIPCO58844.2023.10290061)
+
+**Website:** [centofantieze.github.io](https://centofantieze.github.io)
